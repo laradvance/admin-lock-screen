@@ -1,9 +1,9 @@
 {
-    "name": "laravel-admin-ext/lock-screen",
+    "name": "laradvance/admin-lock-screen",
     "description": "Lock-screen page for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension", "lock screen"],
-    "homepage": "https://github.com/laravel-admin-ext/lock-screen",
+    "homepage": "https://github.com/laradvance/admin-lock-screen",
     "license": "MIT",
     "authors": [
         {
